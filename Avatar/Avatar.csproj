@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ExpressionBlendVersion>4.0.20621.0</ExpressionBlendVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A2E0E97B-4C23-4F44-BA6E-AC317F765D95}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <DefaultClrNameSpace>Avatar</DefaultClrNameSpace>
+    <RootNamespace>Avatar</RootNamespace>
+    <AssemblyName>Avatar</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <ApplicationIcon>Application.ico</ApplicationIcon>
+    <Utf8Output>true</Utf8Output>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="GameOver.xaml.cs">
+      <DependentUpon>GameOver.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Twitter.cs" />
+    <Compile Include="VentanaDormir.xaml.cs">
+      <DependentUpon>VentanaDormir.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaComer.xaml.cs">
+      <DependentUpon>VentanaComer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaMazmorra.xaml.cs">
+      <DependentUpon>VentanaMazmorra.xaml</DependentUpon>
+    </Compile>
+    <Page Include="GameOver.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Barras.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="VentanaDormir.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VentanaComer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VentanaMazmorra.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <AppDesigner Include="Properties\" />
+    <None Include="app.config" />
+    <None Include="Application.ico">
+      <Visible>false</Visible>
+    </None>
+    <None Include="color cuerno.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="cuerno der.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="garenFinal.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="poroSnack.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ARBUSTO JUEGO.jpg" />
+    <Resource Include="FondoMaz.jpg" />
+    <Resource Include="habitacion.png" />
+    <Resource Include="iconoComer.jpg" />
+    <Resource Include="iconoDormir.jpg" />
+    <Resource Include="jugar.png" />
+    <Resource Include="lengua.png" />
+    <Resource Include="ojoDer.png" />
+    <Resource Include="ojoIzq.png" />
+    <Resource Include="otra_vez.jpg" />
+    <Resource Include="pollo.png" />
+    <Resource Include="Vector-Christmas-pictures-trees-snowflakes-blue-sky_m.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="volver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="alarma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="poro2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cruzIzq.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cruzDer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="calavera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="gameOverletras.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="m.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="e.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="v.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="r.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="o.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="reloj.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="twittear.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="pajaroTwitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="teemo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath32)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	     Other similar extension points exist, see Microsoft.Common.targets.
+	<Target Name="BeforeBuild">
+	</Target>
+	<Target Name="AfterBuild">
+	</Target>
+	-->
+</Project>

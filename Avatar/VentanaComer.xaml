@@ -1,0 +1,266 @@
+﻿<Window x:Class="Avatar.VentanaJuego"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Avatar"
+        mc:Ignorable="d" Height="480" Width="640" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Closing="cerrar">
+    <Window.Resources>
+        <Storyboard x:Key="susto2" RepeatBehavior="1x" AutoReverse="False">
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="garen">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.2" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.3" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.4" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.5" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.6" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.7" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.8" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.9" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.1" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.2" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.5" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:2.4" Value="{x:Static Visibility.Hidden}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="garen">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="-46.5"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="-46.5"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="-46.5"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.7" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="-46.5"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-46.5"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.1" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="-46.5"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="-158"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.4" Value="-94.5"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="garen">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="-4.5"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="-4.5"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="-4.5"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.7" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="-4.5"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-4.5"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.1" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="-4.5"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="-121"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.4" Value="-28.5"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="galleta">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="txtGaren">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:2.4" Value="{x:Static Visibility.Hidden}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="garen">
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="2.191"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.4" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="garen">
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="2.387"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.4" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="garen">
+                <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="14.394"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.8" Value="-18.904"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.4" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="galleta" RepeatBehavior="1x">
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="galleta">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.047" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:2" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:2.6" Value="{x:Static Visibility.Hidden}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="galleta">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.047" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.7" Value="37"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.4" Value="-27"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="-7"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="galleta">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.047" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.7" Value="-10"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.4" Value="-15"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="-42"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="txtGalleta">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:3" Value="{x:Static Visibility.Hidden}"/>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="teemo">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="teemo_png">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-333"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:9" Value="-335"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:10" Value="-315"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:10.2" Value="-312.2"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:10.5" Value="-307"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:10.8" Value="-312.472"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:14.5" Value="63.528"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:15" Value="-84.472"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:15.3" Value="-88.472"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:15.5" Value="-88.472"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:15.9" Value="36.028"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="teemo_png">
+                <EasingDoubleKeyFrame KeyTime="0" Value="411"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:9" Value="415"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:10" Value="247"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:10.2" Value="254.6"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:10.5" Value="237"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:10.8" Value="442.907"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:14.5" Value="122.907"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:15" Value="114.907"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:15.3" Value="124.907"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:15.5" Value="124.907"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:15.9" Value="85.907"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="teemo_png">
+                <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:9" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:10.5" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:10.8" Value="{x:Static Visibility.Hidden}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:14.5" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:15.5" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:15.9" Value="{x:Static Visibility.Hidden}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="teemo_png">
+                <EasingDoubleKeyFrame KeyTime="0:0:10" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:10.2" Value="45.229"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:10.5" Value="-28.87"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:15.3" Value="-28.87"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:15.5" Value="360"/>
+            </DoubleAnimationUsingKeyFrames>
+            <PointAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransformOrigin)" Storyboard.TargetName="teemo_png">
+                <EasingPointKeyFrame KeyTime="0:0:10.5" Value="0.5,0.5"/>
+                <EasingPointKeyFrame KeyTime="0:0:10.8" Value="0.261,0.845"/>
+            </PointAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="txtAyuda">
+                <DiscreteObjectKeyFrame KeyTime="0:0:5" Value="{x:Static Visibility.Hidden}"/>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="UIElement.MouseLeftButtonDown" SourceName="zonaGaren">
+            <BeginStoryboard x:Name="susto2_BeginStoryboard" Storyboard="{StaticResource susto2}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseLeftButtonDown" SourceName="zonaGalleta1">
+            <BeginStoryboard x:Name="galleta_BeginStoryboard" Storyboard="{StaticResource galleta}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseLeftButtonDown" SourceName="zonaGalleta2">
+            <BeginStoryboard x:Name="galleta_BeginStoryboard1" Storyboard="{StaticResource galleta}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource teemo}"/>
+        </EventTrigger>
+    </Window.Triggers>
+
+    <Window.Background>
+        <ImageBrush ImageSource="ARBUSTO JUEGO.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Rectangle x:Name="zonaGaren" Margin="231.704,143.401,206.19,174.599" Stroke="Black" RenderTransformOrigin="0.5,0.5" Opacity="0" Fill="#FFF4F4F5" MouseLeftButtonDown="facecheckGaren">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-32.675"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Image x:Name="garen" Margin="0,0,22,9" Source="pack://siteoforigin:,,,/garenFinal.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Visibility="Hidden" Height="174.5" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="265.333">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Rectangle x:Name="zonaGalleta1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="210.283" Margin="30.487,0,0,-48.947" Stroke="Black" VerticalAlignment="Bottom" Width="140.376" RenderTransformOrigin="0.5,0.5" Opacity="0" MouseLeftButtonDown="facecheckGalleta1">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="40.961"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:Name="zonaGalleta2" Fill="#FFF4F4F5" HorizontalAlignment="Right" Height="192.843" Margin="0,-25.603,13.013,0" Stroke="Black" VerticalAlignment="Top" Width="114" RenderTransformOrigin="0.5,0.5" Opacity="0" MouseLeftButtonDown="facecheckGalleta2">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="48.023"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Image x:Name="galleta" Margin="220,0,251,1" Source="pack://siteoforigin:,,,/poroSnack.png" Stretch="Fill" Height="133" VerticalAlignment="Bottom" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Button x:Name="btnVolver" Content="" HorizontalAlignment="Left" Height="56.778" Margin="10,10,0,0" VerticalAlignment="Top" Width="72.518" Click="volver" BorderThickness="0">
+            <Button.Background>
+                <ImageBrush ImageSource="volver.png"/>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="txtGalleta" HorizontalAlignment="Left" Height="69.314" Margin="102.142,66.732,0,0" TextWrapping="Wrap" Text="¡Has conseguido una galleta! Tu barra de apetito se ha restaurado 20 puntos" VerticalAlignment="Top" Width="135.716" RenderTransformOrigin="0.5,0.5" FontWeight="Bold" Background="{x:Null}" Foreground="White" BorderThickness="0" Visibility="Hidden">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-1.354"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox x:Name="txtGaren" HorizontalAlignment="Left" Margin="82.518,145,0,223" TextWrapping="Wrap" Text="¡¡Has perdido 20 puntos de energia huyendo de Garen!!" Width="142.482" Foreground="#FFFBFBFB" Background="{x:Null}" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" BorderThickness="0" Visibility="Hidden">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-1.059"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Image x:Name="teemo_png" Margin="0,45,-110,0" Source="teemo.png" Stretch="Fill" HorizontalAlignment="Right" Height="135" VerticalAlignment="Top" Width="136" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <MediaElement x:Name="terrenoTeemo_mp3" HorizontalAlignment="Left" Height="0" Margin="311,0,0,119" Stretch="Fill" VerticalAlignment="Bottom" Width="0"/>
+        <TextBox x:Name="txtAyuda" Height="61" Margin="297,10,0,0" TextWrapping="Wrap" Text="Busca entre los arbustos algo con lo que poder alimentarte..." VerticalAlignment="Top" Background="{x:Null}" Foreground="White" FontWeight="Bold" TextAlignment="Center" BorderThickness="0" HorizontalAlignment="Left" Width="158"/>
+
+    </Grid>
+</Window>

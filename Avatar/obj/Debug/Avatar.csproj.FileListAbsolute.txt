@@ -1,0 +1,163 @@
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\bin\Debug\color cuerno.png
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\bin\Debug\cuerno der.png
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\bin\Debug\Avatar.exe
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\bin\Debug\Avatar.pdb
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\obj\Debug\MainWindow.baml
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\obj\Debug\MainWindow.g.cs
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\obj\Debug\App.g.cs
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\obj\Debug\Avatar_MarkupCompile.cache
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\obj\Debug\Avatar.g.resources
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\obj\Debug\Avatar.exe
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\obj\Debug\Avatar.pdb
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\obj\Debug\VentanaJuego.g.cs
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\obj\Debug\Avatar_MarkupCompile.lref
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\obj\Debug\VentanaJuego.baml
+C:\Users\Beep\Documents\Expression\Blend 4\Projects\Avatar\Avatar\bin\Debug\garenFinal.png
+C:\Users\Skurch\Desktop\Avatar\Avatar\obj\Debug\Avatar.exe
+C:\Users\Skurch\Desktop\Avatar\Avatar\obj\Debug\Avatar.pdb
+C:\Users\Skurch\Desktop\Avatar\Avatar\bin\Debug\color cuerno.png
+C:\Users\Skurch\Desktop\Avatar\Avatar\bin\Debug\cuerno der.png
+C:\Users\Skurch\Desktop\Avatar\Avatar\bin\Debug\garenFinal.png
+C:\Users\Skurch\Desktop\Avatar\Avatar\bin\Debug\Avatar.exe
+C:\Users\Skurch\Desktop\Avatar\Avatar\bin\Debug\Avatar.pdb
+C:\Users\Skurch\Desktop\Avatar\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+C:\Users\Skurch\Desktop\Avatar\Avatar\obj\Debug\MainWindow.baml
+C:\Users\Skurch\Desktop\Avatar\Avatar\obj\Debug\MainWindow.g.cs
+C:\Users\Skurch\Desktop\Avatar\Avatar\obj\Debug\VentanaJuego.g.cs
+C:\Users\Skurch\Desktop\Avatar\Avatar\obj\Debug\App.g.cs
+C:\Users\Skurch\Desktop\Avatar\Avatar\obj\Debug\Avatar_MarkupCompile.cache
+C:\Users\Skurch\Desktop\Avatar\Avatar\obj\Debug\Avatar_MarkupCompile.lref
+C:\Users\Skurch\Desktop\Avatar\Avatar\obj\Debug\VentanaJuego.baml
+C:\Users\Skurch\Desktop\Avatar\Avatar\obj\Debug\Avatar.g.resources
+C:\Users\Beep\Desktop\Avatar\Avatar\obj\Debug\Avatar.exe
+C:\Users\Beep\Desktop\Avatar\Avatar\obj\Debug\Avatar.pdb
+C:\Users\Beep\Desktop\Avatar\Avatar\bin\Debug\color cuerno.png
+C:\Users\Beep\Desktop\Avatar\Avatar\bin\Debug\cuerno der.png
+C:\Users\Beep\Desktop\Avatar\Avatar\bin\Debug\garenFinal.png
+C:\Users\Beep\Desktop\Avatar\Avatar\bin\Debug\Avatar.exe
+C:\Users\Beep\Desktop\Avatar\Avatar\bin\Debug\Avatar.pdb
+C:\Users\Beep\Desktop\Avatar\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+C:\Users\Beep\Desktop\Avatar\Avatar\obj\Debug\MainWindow.baml
+C:\Users\Beep\Desktop\Avatar\Avatar\obj\Debug\MainWindow.g.cs
+C:\Users\Beep\Desktop\Avatar\Avatar\obj\Debug\VentanaJuego.g.cs
+C:\Users\Beep\Desktop\Avatar\Avatar\obj\Debug\App.g.cs
+C:\Users\Beep\Desktop\Avatar\Avatar\obj\Debug\Avatar_MarkupCompile.cache
+C:\Users\Beep\Desktop\Avatar\Avatar\obj\Debug\Avatar_MarkupCompile.lref
+C:\Users\Beep\Desktop\Avatar\Avatar\obj\Debug\VentanaJuego.baml
+C:\Users\Beep\Desktop\Avatar\Avatar\obj\Debug\Avatar.g.resources
+C:\Users\Beep\Desktop\Avatar\Avatar\obj\Debug\VentanaDormir.g.cs
+C:\Users\Beep\Desktop\Avatar\Avatar\obj\Debug\VentanaDormir.baml
+C:\Users\Beep\Desktop\Avatar\Avatar\bin\Debug\poroSnack.png
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\obj\Debug\Avatar.exe
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\obj\Debug\Avatar.pdb
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\bin\Debug\color cuerno.png
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\bin\Debug\cuerno der.png
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\bin\Debug\garenFinal.png
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\bin\Debug\poroSnack.png
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\bin\Debug\Avatar.exe
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\bin\Debug\Avatar.pdb
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\obj\Debug\MainWindow.baml
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\obj\Debug\MainWindow.g.cs
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\obj\Debug\VentanaDormir.g.cs
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\obj\Debug\VentanaJuego.g.cs
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\obj\Debug\App.g.cs
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\obj\Debug\Avatar_MarkupCompile.cache
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\obj\Debug\Avatar_MarkupCompile.lref
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\obj\Debug\VentanaDormir.baml
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\obj\Debug\VentanaJuego.baml
+C:\Users\Beep\Desktop\Tor Browser\avatardebug\Avatar\obj\Debug\Avatar.g.resources
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\Avatar.exe
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\Avatar.pdb
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\bin\Debug\color cuerno.png
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\bin\Debug\cuerno der.png
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\bin\Debug\garenFinal.png
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\bin\Debug\poroSnack.png
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\bin\Debug\Avatar.exe
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\bin\Debug\Avatar.pdb
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\MainWindow.baml
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\VentanaMazmorra.baml
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\MainWindow.g.cs
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\VentanaDormir.g.cs
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\VentanaJuego.g.cs
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\VentanaMazmorra.g.cs
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\App.g.cs
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\Avatar_MarkupCompile.cache
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\Avatar_MarkupCompile.lref
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\VentanaDormir.baml
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\VentanaJuego.baml
+C:\Users\Skurch\Desktop\AvatarIpo\Avatar\obj\Debug\Avatar.g.resources
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\bin\Debug\color cuerno.png
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\bin\Debug\cuerno der.png
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\bin\Debug\garenFinal.png
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\bin\Debug\poroSnack.png
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\bin\Debug\Avatar.exe.config
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\bin\Debug\Avatar.exe
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\bin\Debug\Avatar.pdb
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\MainWindow.baml
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\VentanaMazmorra.baml
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\MainWindow.g.cs
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\VentanaDormir.g.cs
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\VentanaComer.g.cs
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\VentanaMazmorra.g.cs
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\App.g.cs
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\Avatar_MarkupCompile.cache
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\Avatar_MarkupCompile.lref
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\VentanaDormir.baml
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\VentanaComer.baml
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\Avatar.g.resources
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\Avatar.exe
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\Avatar.pdb
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\GameOver.g.cs
+C:\Users\Beep\Desktop\Tor Browser\Avatar Mazmorra\AvatarIpo\Avatar\obj\Debug\GameOver.baml
+C:\Users\Skurch\Desktop\Avatoro\Avatar\bin\Debug\Avatar.exe.config
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\Avatar.exe
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\Avatar.pdb
+C:\Users\Skurch\Desktop\Avatoro\Avatar\bin\Debug\color cuerno.png
+C:\Users\Skurch\Desktop\Avatoro\Avatar\bin\Debug\cuerno der.png
+C:\Users\Skurch\Desktop\Avatoro\Avatar\bin\Debug\garenFinal.png
+C:\Users\Skurch\Desktop\Avatoro\Avatar\bin\Debug\poroSnack.png
+C:\Users\Skurch\Desktop\Avatoro\Avatar\bin\Debug\Avatar.exe
+C:\Users\Skurch\Desktop\Avatoro\Avatar\bin\Debug\Avatar.pdb
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\MainWindow.baml
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\VentanaMazmorra.baml
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\GameOver.g.cs
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\MainWindow.g.cs
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\VentanaDormir.g.cs
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\VentanaComer.g.cs
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\VentanaMazmorra.g.cs
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\App.g.cs
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\Avatar_MarkupCompile.cache
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\Avatar_MarkupCompile.lref
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\GameOver.baml
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\VentanaDormir.baml
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\VentanaComer.baml
+C:\Users\Skurch\Desktop\Avatoro\Avatar\obj\Debug\Avatar.g.resources
+C:\Users\Beep\Desktop\Avatoro\Avatar\bin\Debug\Avatar.exe.config
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\Avatar.exe
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\Avatar.pdb
+C:\Users\Beep\Desktop\Avatoro\Avatar\bin\Debug\color cuerno.png
+C:\Users\Beep\Desktop\Avatoro\Avatar\bin\Debug\cuerno der.png
+C:\Users\Beep\Desktop\Avatoro\Avatar\bin\Debug\garenFinal.png
+C:\Users\Beep\Desktop\Avatoro\Avatar\bin\Debug\poroSnack.png
+C:\Users\Beep\Desktop\Avatoro\Avatar\bin\Debug\Avatar.exe
+C:\Users\Beep\Desktop\Avatoro\Avatar\bin\Debug\Avatar.pdb
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\MainWindow.baml
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\VentanaMazmorra.baml
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\GameOver.g.cs
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\MainWindow.g.cs
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\VentanaDormir.g.cs
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\VentanaComer.g.cs
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\VentanaMazmorra.g.cs
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\App.g.cs
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\Avatar_MarkupCompile.cache
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\Avatar_MarkupCompile.lref
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\GameOver.baml
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\VentanaDormir.baml
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\VentanaComer.baml
+C:\Users\Beep\Desktop\Avatoro\Avatar\obj\Debug\Avatar.g.resources

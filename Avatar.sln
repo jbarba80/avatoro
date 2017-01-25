@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avatar", "Avatar\Avatar.csproj", "{a2e0e97b-4c23-4f44-ba6e-ac317f765d95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E0E97B-4C23-4F44-BA6E-AC317F765D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E0E97B-4C23-4F44-BA6E-AC317F765D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E0E97B-4C23-4F44-BA6E-AC317F765D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E0E97B-4C23-4F44-BA6E-AC317F765D95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
